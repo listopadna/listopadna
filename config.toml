@@ -1,4 +1,4 @@
-baseURL = 'https://listopadna.github.io/'
+baseURL = 'https://www.listopadna.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'newsroom'
